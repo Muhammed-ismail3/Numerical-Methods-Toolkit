@@ -1,5 +1,7 @@
 # Numerical Methods Toolkit
 
+Numerical analysis Project 
+
 The **Numerical Methods Toolkit** is a comprehensive C-based command-line application designed to solve complex mathematical problems using standard numerical analysis algorithms. From finding roots of nonlinear equations to performing matrix operations and numerical integration, this tool provides a centralized suite for engineering and scientific calculations.
 
 ---
